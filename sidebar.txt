@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oin:home|Door43 (oin)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oin|d43-oin repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oin/archive/master.zip|d43-oin.zip]]
+
+**Recent Changes**
+{{changes>ns = oin}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oin|Ethnologue data]]
+
